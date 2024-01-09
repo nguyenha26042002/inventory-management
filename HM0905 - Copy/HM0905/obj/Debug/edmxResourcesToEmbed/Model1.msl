@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="XeMayHM10ModelStoreContainer" CdmEntityContainer="XeMayHM10Entities1">
+    <EntitySetMapping Name="tblChitietHDBaoHanhs">
+      <EntityTypeMapping TypeName="XeMayHM10Model.tblChitietHDBaoHanh">
+        <MappingFragment StoreEntitySet="tblChitietHDBaoHanh">
+          <ScalarProperty Name="MaHDBaoHanh" ColumnName="MaHDBaoHanh" />
+          <ScalarProperty Name="MaPhieuBaoHanh" ColumnName="MaPhieuBaoHanh" />
+          <ScalarProperty Name="DMBaoHanh" ColumnName="DMBaoHanh" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="DGBan" ColumnName="DGBan" />
+          <ScalarProperty Name="KhauTru" ColumnName="KhauTru" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblChitietPhieuBaoHanhs">
+      <EntityTypeMapping TypeName="XeMayHM10Model.tblChitietPhieuBaoHanh">
+        <MappingFragment StoreEntitySet="tblChitietPhieuBaoHanh">
+          <ScalarProperty Name="MaPhieuBaoHanh" ColumnName="MaPhieuBaoHanh" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="DMBaoHanh" ColumnName="DMBaoHanh" />
+          <ScalarProperty Name="ThoiHanBaoHanh" ColumnName="ThoiHanBaoHanh" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDMBaoHanhs">
+      <EntityTypeMapping TypeName="XeMayHM10Model.tblDMBaoHanh">
+        <MappingFragment StoreEntitySet="tblDMBaoHanh">
+          <ScalarProperty Name="MaDMBaoHanh" ColumnName="MaDMBaoHanh" />
+          <ScalarProperty Name="TenDMBaoHanh" ColumnName="TenDMBaoHanh" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="XeMayHM10Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblChitietHDBaoHanh">
+    <Key>
+      <PropertyRef Name="MaHDBaoHanh" />
+      <PropertyRef Name="MaPhieuBaoHanh" />
+    </Key>
+    <Property Name="MaHDBaoHanh" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MaPhieuBaoHanh" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DMBaoHanh" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="SL" Type="float" />
+    <Property Name="DGBan" Type="float" />
+    <Property Name="KhauTru" Type="float" />
+    <Property Name="ThanhTien" Type="float" />
+    <Property Name="MaSP" Type="nvarchar" MaxLength="20" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="tblChitietPhieuBaoHanh">
+    <Key>
+      <PropertyRef Name="MaPhieuBaoHanh" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaPhieuBaoHanh" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MaSP" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DMBaoHanh" Type="nvarchar" MaxLength="20" />
+    <Property Name="ThoiHanBaoHanh" Type="float" Nullable="false" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="tblDMBaoHanh">
+    <Key>
+      <PropertyRef Name="MaDMBaoHanh" />
+    </Key>
+    <Property Name="MaDMBaoHanh" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="TenDMBaoHanh" Type="nvarchar" MaxLength="20" />
+    <Property Name="DonGia" Type="float" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="XeMayHM10ModelStoreContainer">
+    <EntitySet Name="tblChitietHDBaoHanh" EntityType="Self.tblChitietHDBaoHanh" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblChitietPhieuBaoHanh" EntityType="Self.tblChitietPhieuBaoHanh" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblDMBaoHanh" EntityType="Self.tblDMBaoHanh" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

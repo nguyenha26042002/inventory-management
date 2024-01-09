@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="XeMayHM10Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblChitietPhieuNhapHang">
+    <Key>
+      <PropertyRef Name="MaPhieuNhapHang" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaPhieuNhapHang" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaSP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DVT" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="VAT" Type="Double" />
+    <Property Name="DGNhap" Type="Double" />
+    <Property Name="SL" Type="Double" />
+    <Property Name="ThanhTien" Type="Double" />
+    <Property Name="GhiChu" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblPhieuNhapHang">
+    <Key>
+      <PropertyRef Name="MaPhieuNhapHang" />
+    </Key>
+    <Property Name="MaPhieuNhapHang" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaNV" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="NgayNhap" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="tblSanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenSP" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SoKhung" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="SoMay" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="SoTem" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="MaNH" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaModel" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaColor" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DGNhap" Type="Double" Nullable="false" />
+    <Property Name="DGBan" Type="Double" Nullable="false" />
+    <Property Name="SL" Type="Double" Nullable="false" />
+    <Property Name="VAT" Type="Double" Nullable="false" />
+    <Property Name="DVT" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TimeBaoHanh" Type="Double" Nullable="false" />
+    <Property Name="Anh" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Ghichu" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="XeMayHM10Entities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblChitietPhieuNhapHangs" EntityType="Self.tblChitietPhieuNhapHang" />
+    <EntitySet Name="tblPhieuNhapHangs" EntityType="Self.tblPhieuNhapHang" />
+    <EntitySet Name="tblSanPhams" EntityType="Self.tblSanPham" />
+  </EntityContainer>
+</Schema>

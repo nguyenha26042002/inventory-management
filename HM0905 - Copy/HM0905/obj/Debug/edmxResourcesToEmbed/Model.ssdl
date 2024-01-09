@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="XeMayHM10Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblChitietPhieuNhapHang">
+    <Key>
+      <PropertyRef Name="MaPhieuNhapHang" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaPhieuNhapHang" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MaSP" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DVT" Type="nvarchar" MaxLength="10" />
+    <Property Name="VAT" Type="float" />
+    <Property Name="DGNhap" Type="float" />
+    <Property Name="SL" Type="float" />
+    <Property Name="ThanhTien" Type="float" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="tblPhieuNhapHang">
+    <Key>
+      <PropertyRef Name="MaPhieuNhapHang" />
+    </Key>
+    <Property Name="MaPhieuNhapHang" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MaNV" Type="nvarchar" MaxLength="20" />
+    <Property Name="NgayNhap" Type="date" />
+  </EntityType>
+  <EntityType Name="tblSanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="TenSP" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="SoKhung" Type="nvarchar" MaxLength="20" />
+    <Property Name="SoMay" Type="nvarchar" MaxLength="20" />
+    <Property Name="SoTem" Type="nvarchar" MaxLength="20" />
+    <Property Name="MaNH" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MaModel" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MaColor" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DGNhap" Type="float" Nullable="false" />
+    <Property Name="DGBan" Type="float" Nullable="false" />
+    <Property Name="SL" Type="float" Nullable="false" />
+    <Property Name="VAT" Type="float" Nullable="false" />
+    <Property Name="DVT" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="TimeBaoHanh" Type="float" Nullable="false" />
+    <Property Name="Anh" Type="image" />
+    <Property Name="Ghichu" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="XeMayHM10ModelStoreContainer">
+    <EntitySet Name="tblChitietPhieuNhapHang" EntityType="Self.tblChitietPhieuNhapHang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblPhieuNhapHang" EntityType="Self.tblPhieuNhapHang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblSanPham" EntityType="Self.tblSanPham" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

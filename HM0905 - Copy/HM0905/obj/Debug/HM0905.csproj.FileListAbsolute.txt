@@ -1,0 +1,110 @@
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\bin\Debug\HM0905.exe.config
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\bin\Debug\HM0905.exe
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\bin\Debug\HM0905.pdb
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.csproj.AssemblyReference.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.csproj.SuggestedBindingRedirects.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.TrangChu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.Properties.Resources.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.csproj.GenerateResource.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.csproj.CoreCompileInputs.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.exe
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.pdb
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.PhieuKiemHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.PhieuNhapHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.Model.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.SanPham.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.FormKho.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.FormSanPham.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.Color.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.NhomHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.ChucVu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.FormNhanSu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.KhachHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.NhanVien.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.FormBaoCao.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.PhieuXuatHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.FormHoaDon.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.HoaDonBanHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.DanhMucBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.FormBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.PhieuBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.DanhSachHangLoi.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.DanhSachHangThieu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.BanKeHoachNhapHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\bin\Debug\FontAwesome.Sharp.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.csproj.CopyComplete
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.HoaDonBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905\HM0905\obj\Debug\HM0905.DangNhap.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\HM0905.exe.config
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\HM0905.exe
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\HM0905.pdb
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\FontAwesome.Sharp.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.csproj.AssemblyReference.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.csproj.SuggestedBindingRedirects.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.BanKeHoachNhapHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.ChucVu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.Color.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.DangNhap.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.DanhMucBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.DanhSachHangLoi.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.DanhSachHangThieu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.FormBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.FormHoaDon.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.HoaDonBanHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.HoaDonBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.PhieuBaoHanh.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.PhieuXuatHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.FormBaoCao.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.FormKho.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.FormNhanSu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.FormSanPham.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.KhachHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.Model.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.NhanVien.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.NhomHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.PhieuKiemHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.PhieuNhapHang.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.SanPham.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.TrangChu.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.Properties.Resources.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.csproj.GenerateResource.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.csproj.CoreCompileInputs.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.csproj.CopyComplete
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.exe
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.pdb
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.TaiKhoan.resources
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.exe.licenses
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.csproj.ResolveComReference.cache
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EntityFramework.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EntityFramework.SqlServer.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EntityFramework.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EntityFramework.SqlServer.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EPPlus.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EPPlus.Interfaces.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EPPlus.System.Drawing.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\EPPlus.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Thực tập chuyên ngành\NHÓM 10\Code\HM0905 - Copy\HM0905\obj\Debug\HM0905.PhieuDatHang.resources

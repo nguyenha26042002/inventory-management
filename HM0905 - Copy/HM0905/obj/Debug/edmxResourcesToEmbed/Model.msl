@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="XeMayHM10ModelStoreContainer" CdmEntityContainer="XeMayHM10Entities4">
+    <EntitySetMapping Name="tblChitietPhieuNhapHangs">
+      <EntityTypeMapping TypeName="XeMayHM10Model.tblChitietPhieuNhapHang">
+        <MappingFragment StoreEntitySet="tblChitietPhieuNhapHang">
+          <ScalarProperty Name="MaPhieuNhapHang" ColumnName="MaPhieuNhapHang" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="DVT" ColumnName="DVT" />
+          <ScalarProperty Name="VAT" ColumnName="VAT" />
+          <ScalarProperty Name="DGNhap" ColumnName="DGNhap" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPhieuNhapHangs">
+      <EntityTypeMapping TypeName="XeMayHM10Model.tblPhieuNhapHang">
+        <MappingFragment StoreEntitySet="tblPhieuNhapHang">
+          <ScalarProperty Name="MaPhieuNhapHang" ColumnName="MaPhieuNhapHang" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="NgayNhap" ColumnName="NgayNhap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSanPhams">
+      <EntityTypeMapping TypeName="XeMayHM10Model.tblSanPham">
+        <MappingFragment StoreEntitySet="tblSanPham">
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+          <ScalarProperty Name="SoKhung" ColumnName="SoKhung" />
+          <ScalarProperty Name="SoMay" ColumnName="SoMay" />
+          <ScalarProperty Name="SoTem" ColumnName="SoTem" />
+          <ScalarProperty Name="MaNH" ColumnName="MaNH" />
+          <ScalarProperty Name="MaModel" ColumnName="MaModel" />
+          <ScalarProperty Name="MaColor" ColumnName="MaColor" />
+          <ScalarProperty Name="DGNhap" ColumnName="DGNhap" />
+          <ScalarProperty Name="DGBan" ColumnName="DGBan" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="VAT" ColumnName="VAT" />
+          <ScalarProperty Name="DVT" ColumnName="DVT" />
+          <ScalarProperty Name="TimeBaoHanh" ColumnName="TimeBaoHanh" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+          <ScalarProperty Name="Ghichu" ColumnName="Ghichu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

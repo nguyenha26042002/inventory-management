@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="XeMayHM10Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblChitietHDBaoHanh">
+    <Key>
+      <PropertyRef Name="MaHDBaoHanh" />
+      <PropertyRef Name="MaPhieuBaoHanh" />
+    </Key>
+    <Property Name="MaHDBaoHanh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaPhieuBaoHanh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DMBaoHanh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SL" Type="Double" />
+    <Property Name="DGBan" Type="Double" />
+    <Property Name="KhauTru" Type="Double" />
+    <Property Name="ThanhTien" Type="Double" />
+    <Property Name="MaSP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="GhiChu" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblChitietPhieuBaoHanh">
+    <Key>
+      <PropertyRef Name="MaPhieuBaoHanh" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaPhieuBaoHanh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaSP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DMBaoHanh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="ThoiHanBaoHanh" Type="Double" Nullable="false" />
+    <Property Name="GhiChu" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblDMBaoHanh">
+    <Key>
+      <PropertyRef Name="MaDMBaoHanh" />
+    </Key>
+    <Property Name="MaDMBaoHanh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenDMBaoHanh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DonGia" Type="Double" />
+    <Property Name="GhiChu" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="XeMayHM10Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblChitietHDBaoHanhs" EntityType="Self.tblChitietHDBaoHanh" />
+    <EntitySet Name="tblChitietPhieuBaoHanhs" EntityType="Self.tblChitietPhieuBaoHanh" />
+    <EntitySet Name="tblDMBaoHanhs" EntityType="Self.tblDMBaoHanh" />
+  </EntityContainer>
+</Schema>
